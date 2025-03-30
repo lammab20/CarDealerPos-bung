@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Porsche Zentrum Berlin",
+    "location": "Berlin",
+    "salesManager": {
+      "name": "Hans Meier",
+      "birthDate": 1975
+    },
+    "inventory": [
+      {
+        "model": "911 Turbo S",
+        "manufactureDate": "2022-03-15",
+        "horsepower": 650,
+        "type": "Sportwagen",
+        "price": 215000,
+        "topSpeed": 330
+      },
+      {
+        "model": "Taycan Turbo",
+        "manufactureDate": "2021-11-22",
+        "horsepower": 680,
+        "type": "Elektro",
+        "price": 185000,
+        "topSpeed": 260
+      }
+    ]
+  },
+  {
+    "name": "Mercedes-Benz Niederlassung München",
+    "location": "München",
+    "salesManager": {
+      "name": "Anna",
+      "birthDate": 1982
+    },
+    "inventory": [
+      {
+        "model": "AMG GT Black Series",
+        "manufactureDate": "2021-07-10",
+        "horsepower": 730,
+        "type": "Sportwagen",
+        "price": 335000,
+        "topSpeed": 325
+      },
+      {
+        "model": "EQS 580",
+        "manufactureDate": "2022-01-18",
+        "horsepower": 523,
+        "type": "Elektro",
+        "price": 125000,
+        "topSpeed": 210
+      }
+    ]
+  },
+  {
+    "name": "Audi Forum Hamburg",
+    "location": "Hamburg",
+    "salesManager": {
+      "name": "Thomas",
+      "birthDate": 1978
+    },
+    "inventory": [
+      {
+        "model": "R8 V10 Plus",
+        "manufactureDate": "2020-09-30",
+        "horsepower": 620,
+        "type": "Sportwagen",
+        "price": 205000,
+        "topSpeed": 331
+      },
+      {
+        "model": "RS e-tron GT",
+        "manufactureDate": "2022-02-14",
+        "horsepower": 598,
+        "type": "Elektro",
+        "price": 145000,
+        "topSpeed": 245
+      }
+    ]
+  }
+]
